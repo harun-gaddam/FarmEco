@@ -1,0 +1,707 @@
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) { 
+
+		.container-1280-wrp{ width: 100%;}
+		.why-partner-container ul li { width:300px; }
+		.why-partner-container ul li {width: 226px;}
+		
+		.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+		
+		
+.about-us-container{ padding: 20px;} 
+.about-us-lhs p.green-title{font-size:24px;}
+.about-us-lhs p.lhs-para{font-size:16px; margin-left: 10px}
+.about-us-lhs{padding:20px;height: auto;}
+.about-us-rhs{height:auto;padding: 15px;background-position: 35px 15px;}
+.about-us-rhs .infograph-home{margin-left:0px;margin-top: 225px;}
+.about-us-rhs .infograph-home1{margin-left:0px; margin-top:10px;}
+.about-us-wrp{padding:10px 0;}
+.about-us-container p.para-large{line-height:27px; font-size:22px;}
+.about-banner h2 span{font-size:30px;}
+.about-banner h2{padding-top:75px;}
+.about-us-container p.top-desc, .about-us-container p{font-size:14px;}
+.team-container h2{font-size:24px;}
+.team-desc span{font-size:14px; margin-bottom: 5px;}
+.team-desc p{font-size:14px;}
+.team-container{padding-left:5px;}
+.about-us-rhs p.info-numb{font-size:26px;}
+.awards-box .white-awards-div{height:430px; padding: 0px;}
+#awards{padding-top:20px; padding-bottom:0px;}
+.careers-container{padding-top:0px; padding-left: 0px;}
+.careers-container h2{font-size:30px; text-align:left; margin-left:0px;}
+.awards-slider h2{font-size:30px;}
+.careers-container img{margin-left: 0px;}
+.awards-slider{width:auto;}
+.about-us-lhs .lhs-content{display:block;}
+.leadership-container{padding-left:10px;}
+.careers-container span{font-size:24px; text-align: left; line-height: 27px; margin-bottom: 10px;}
+.about-banner{height:330px;}
+.about-us-container span.green-large-text{font-size:26px;}
+.careers-container p{font-size:14px;text-align: justify;}
+.awards-box p{padding:40px;text-align: left;}
+#team{padding:10px;}
+.team-desc h2{font-size:18px;}
+.leadership-container h2{font-size:24px;}
+#careers{height: auto; padding: 10px;}
+.tooltip-hover { display:none; }
+	
+.mobile-no-display{ display: none;}	
+.desk-no-display{ display: block;}	
+	
+.tech-no-mobile{ display: none;}
+	.tech-no-desk{ display: block; margin: 30px auto 0px;}	
+	.farmers-know-bt {margin-top:10px !important;}
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) { 
+
+	.container-1280-wrp{ width: 100%;}
+	.place-order-pic-box{ width: 100%;}
+	.logo-wrp{ width:30%; padding-bottom: 10px;}
+	.logo-wrp img{ margin:0 auto;}
+	.nav-wrp{ float: right;width:36%; display: none; padding-top: 10px;background-color:rgba(88, 88, 000, 0.9)}
+	.nav-wrp ul li{ float: none; margin: 0px; text-align: center;}
+	.nav-wrp ul li.norm-link{ margin: 0px;border-bottom: 1px solid rgba(88, 88, 87, 0.8);}
+	.nav-wrp ul li.icn-link{ margin: 5px 0px;}
+	.row{ margin: 0px;}
+	.container-fluid{ padding: 0px;}
+	.banner-area-wrp{ height: 440px;}
+	p.caption-text {width: 100%;
+    padding:9px 20px;
+    margin: 0px;
+    font-size:18px;
+    background-color: rgba(141,195,26,0.8);
+    position: absolute;
+    bottom: 0px;}
+	
+.item:nth-child(1){ background-position: center; background-image: url(../images/mobile-banner-2.jpg); background-repeat: no-repeat; background-size: cover;}
+.item:nth-child(2){ background-position: center; background-image: url(../images/mobile-banner-5.jpg); background-repeat: no-repeat; background-size: cover;}
+.item:nth-child(3){ background-position: center; background-image: url(../images/mobile-banner-new-three-screen.jpg); background-repeat: no-repeat; background-size: cover;}
+.item:nth-child(4){ background-position: center; background-image: url(../images/mobile-banner-4.jpg); background-repeat: no-repeat; background-size: cover;}
+	
+	.carousel-fade .carousel-control{ line-height: 17;}
+	.about-home-wrp{ padding: 20px 0px;}
+	.about-home-lhs{ padding: 0px;}
+	.title-home{ font-size: 32px; margin-bottom: 10px;}
+	.home-about-sub-desc{ font-size: 22px;}
+	.home-about-desc{ font-size: 16px;}
+	.infograph-home{ margin: 0px;}
+	.about-home-rhs{ height: auto; min-height: 350px; background-size: 100%;}
+	.green-cta{ bottom: 0px;}
+	.grid-box-wrp{ height: 350px;}
+	.inner-grid-box{ left: 20px; bottom: 20px;}
+	p.grid-desc{ height: auto; font-size: 20px;}
+	.no-show-mob{ display: none;}
+	.copy-right-wrp span.copy-link{ text-align: center; display: block;}
+	p.footer-logo-btm-desc{ font-size: 13px; padding: 0px;}
+	.top-last-ftr{ margin: 10px 0px;}
+	.mobile-hide{ display: none;}
+	.mobile-show{ display:block;}
+	.place-order-pic-box img{ margin: 0 auto;}
+	.place-order-wrp {
+    width: 100%;
+    height: auto;
+		padding: 30px 0px 95px;}
+	.story-box{ width: 100% !important; height: auto; padding-top: 80px; padding-bottom: 20px;}
+	.quote-1{ display: none;}
+	.quote-2{ display: none;}
+	p.story-desc{ padding: 0px 20px;}
+	.hamburger-menu{ display: block;}
+	a.banner-cta{ margin-top: 0px;}
+	.hide-mobile{ display:none;}
+	.hide-desktop{ display:block !important;position: relative;
+    clear: both;
+    margin: 20px 0px;
+    left: 0px;}
+	
+	.header-main-wrp{ background-color:transparent; padding-bottom: 0px; padding-top: 0px; border: none;top: 30px;}
+	.header-main-wrp .col-md-3{ background-color: #fff; padding: 10px 0px 0px; width:100%}
+	.header-main-wrp .col-md-9{ /*background-color:rgba(117, 165, 15, 0.8);*/ padding: 0px 0px 0px; width:100%}
+	.nav-wrp ul li.norm-link a{ color:#fff;padding: 14px 0px; display:block; }
+	.nav-wrp ul li.lang-link select{ margin-bottom: 10px;}
+	.form-wrap { width:100%; }
+	.why-partner-container ul li,.corporate-list ul li { width:98%; margin:0 auto; margin-bottom:5px;float:none; }
+	.why-partner-container {    margin-top: 0;
+    margin-left: 0;
+    padding-left: 0;
+    padding-bottom: 40px;}
+	.why-partner-container h2 {margin-top:0px; text-align:center; padding-top:20px;}
+	
+	
+.partners-banner,.corporate-banner { height:auto; padding-bottom:30px; background-image:none; background-color:#f8f8f9;} 
+	.partners-banner h2,.corporate-banner h2 {line-height: 25px;padding-top: 30px;padding-bottom: 20px;font-size: 26px; color:#FFF !important;margin-top: -180px;}
+	.corporate-banner h2 {margin-top: -230px;}
+	.partners-banner h2 {padding-top: 30px;padding-bottom: 20px;font-size:30px;line-height: 26px;}
+	
+	.why-partner-container { padding:0px; }
+	.why-partner-container ul {margin-top: 20px;}
+	#successful {padding-top: 30px;}
+	.corporate-banner h2 {line-height: 33px;padding-top: 30px;padding-bottom: 20px;}	
+	
+	
+	
+	.farmers-banner { height:auto; background-image:none;}
+	.farmers-banner .container-1280-wrp { position:relative;background-color: #f8f8f9; top:0px; }
+	.farmers-banner h2 {padding-top: 10px; color:#FFF; margin-top: -150px; margin-bottom:20px;}
+	.farmers-banner h2 a { color:#FFF; }
+	#carousel-farmers .item:nth-child(1) {
+  background-image: url(../images/mobile-farmer-banner.jpg); background-repeat: no-repeat; background-position:0px 0px; background-size:cover;
+}
+#carousel-farmers.item:nth-child(2) {
+   background-image: url(../images/mobile-farmer-banner-2.jpg); background-repeat: no-repeat; background-position: 0px 0px; background-size: cover;
+}
+
+#tringo-advantage { height:auto; }
+#tringo-advantage h2 {font-size: 30px;}
+#carousel-example-generic .item {background-size: 70%; background-image:none;}
+.mobile-screen { width:266px; top:0px; margin-top:20px; margin-bottom:20px; position:relative;height: 472px;background-color:transparent; }
+#technology { height:auto; }
+.customers-slider h2 {font-size: 33px;}
+.orange-cta { right:0;margin: auto;bottom: 20px;width: 215px;}
+#carousel-example-generic .carousel-control.right {right: 30px;}
+#carousel-example-generic .carousel-control.left {left: 30px;}
+.flex-direction-nav a { width:40px !important; height:40px !important;top: 25% !important; }
+.flex-direction-nav .flex-next,.flex-direction-nav .flex-prev {background-position: center;}
+.successful-slider h2 {font-size: 30px;}	
+.successful-slider h2 br { display:none; }
+#carousel-farmers .carousel-indicators { bottom:46px; left:inherit; right:0px;width: 15%;}
+
+
+.about-us-container{ padding: 20px;} 
+.about-us-lhs p.green-title{font-size:24px;}
+.about-us-lhs p.lhs-para{font-size:16px; margin-left: 10px}
+.about-us-lhs{padding:20px;height: auto;}
+.about-us-rhs{height:auto;padding: 15px;background-position: 35px 15px;}
+.about-us-rhs .infograph-home{margin-left:0px;margin-top: 289px;}
+.about-us-rhs .infograph-home1{margin-left:0px; margin-top:10px;}
+.about-us-wrp{padding:10px 0;}
+.about-us-container p.para-large{line-height:27px; font-size:22px;}
+.about-banner h2 span{font-size:30px;}
+.about-banner h2{padding-top:75px;}
+.about-us-container p.top-desc, .about-us-container p{font-size:14px;}
+.team-container h2{font-size:24px;}
+.team-desc span{font-size:14px; margin-bottom: 5px;}
+.team-desc p{font-size:14px;}
+.team-container{padding-left:5px;}
+.about-us-rhs p.info-numb{font-size:26px;}
+.awards-box .white-awards-div{height:430px; padding: 0px;}
+#awards{padding-top:20px; padding-bottom:0px;}
+.careers-container{padding-top:0px; padding-left: 0px;}
+.careers-container h2{font-size:30px; margin-left:0px;}
+.awards-slider h2{font-size:30px;}
+.awards-slider{width:auto;}
+.about-us-lhs .lhs-content{display:block;}
+.leadership-container{padding-left:10px;}
+.careers-container span{font-size:24px; line-height: 27px; margin-bottom: 10px;}
+.about-banner{height:330px;}
+.about-us-container span.green-large-text{font-size:26px;}
+.careers-container p{font-size:14px;}
+.awards-box p{padding:40px;text-align: left;}
+#team{padding:10px;}
+.team-desc h2{font-size:18px;}
+.leadership-container h2{font-size:18px;}
+#careers{height: auto; padding: 10px;}
+.success-story-wrp {height: 489px;}
+#grid-section .caption h3 {padding-top: 40px;padding-bottom: 25px;}
+#grid-section .thumbnail .caption {min-height: 160px;}
+#grid-section .thumbnail {margin-bottom:0px;}
+#grid-section { padding-bottom:0px;padding-top: 10px; }
+#grid-section .title-home {margin-bottom: 20px;}
+.success-story-wrp {height: 509px;}
+.tooltip-hover { display:none; }
+.banner-area-wrp .carousel-indicators {width: 30%;left: 96%;}
+.copy-right-wrp a { display:block; text-align:center; }
+
+.mobile-no-display{ display: none;}		
+.desk-no-display{ display: block;}	
+	
+.tech-no-mobile{ display: none;}
+		.tech-no-desk{ display: block; margin: 30px auto 0px;}	
+	.farmers-know-bt {margin-top:10px !important;}
+}
+
+@media (min-width: 481px) and (max-width:767px) { 
+.container-1280-wrp{ width: 100%;}
+.place-order-pic-box{ width: 100%;}
+.logo-wrp{ width:63%; padding-bottom: 10px;}
+.logo-wrp img{ margin:0 auto;}
+.nav-wrp{ float: right;width: 60%; display: none; padding-top: 10px;background-color:rgba(000, 000, 000, 0.9)}
+.nav-wrp ul li{ float: none; margin: 0px; text-align: center;}
+.nav-wrp ul li.norm-link{ margin: 0px;border-bottom: 1px solid rgba(88, 88, 87, 0.8);}
+.nav-wrp ul li.icn-link{ margin: 5px 0px;}
+.row{ margin: 0px;}
+.container-fluid{ padding: 0px;}
+.banner-area-wrp{ height: 300px;}
+p.caption-text {width: 100%;
+padding:9px 20px;
+margin: 0px;
+font-size:23px;
+background-color: rgba(141,195,26,0.8);
+position: absolute;
+bottom: 0px;}
+
+.item:nth-child(1){ background-position: center; background-image: url(../images/mobile-banner-2.jpg); background-repeat: no-repeat; background-size: cover;}
+.item:nth-child(2){ background-position: center; background-image: url(../images/mobile-banner-5.jpg); background-repeat: no-repeat; background-size: cover;}
+.item:nth-child(3){ background-position: center; background-image: url(../images/mobile-banner-new-three-screen.jpg); background-repeat: no-repeat; background-size: cover;}
+.item:nth-child(4){ background-position: center; background-image: url(../images/mobile-banner-4.jpg); background-repeat: no-repeat; background-size: cover;}
+
+.carousel-fade .carousel-control{ line-height: 17;}
+.about-home-wrp{ padding: 20px 0px;}
+.about-home-lhs{ padding: 0px;}
+.title-home{ font-size: 32px; margin-bottom: 10px;}
+.home-about-sub-desc{ font-size: 22px;}
+.home-about-desc{ font-size: 16px;}
+.infograph-home{ margin: 0px;}
+.about-home-rhs{ height: auto; min-height:670px; background-size: 100%;}
+.green-cta{ bottom: 0px;}
+.grid-box-wrp{ height: 350px;}
+.inner-grid-box{ left: 20px; bottom: 20px;}
+p.grid-desc{ height: auto; font-size: 20px;}
+.no-show-mob{ display: none;}
+.copy-right-wrp span.copy-link{ text-align: center; display: block;}
+p.footer-logo-btm-desc{ font-size: 13px; padding: 0px;}
+.top-last-ftr{ margin: 10px 0px;}
+.mobile-hide{ display: none;}
+.mobile-show{ display:block;}
+.place-order-pic-box img{ margin: 0 auto;}
+.place-order-wrp {
+width: 100%;
+height: auto;
+padding: 30px 0px 95px;}
+.story-box{ width: 100% !important; height: auto; padding-top: 80px; padding-bottom: 20px;}
+.quote-1{ display: none;}
+.quote-2{ display: none;}
+p.story-desc{ padding: 0px 20px;}
+.hamburger-menu{ display: block;}
+a.banner-cta{ margin-top: 0px;}
+.hide-mobile{ display:none;}
+.hide-desktop{ display:block !important;position: relative;
+clear: both;
+margin: 20px 0px;
+left: 0px;}
+
+.header-main-wrp{ background-color:transparent; padding-bottom: 0px; padding-top: 0px; border: none;top: 25px;}
+.header-main-wrp .col-md-3{ background-color: #fff; padding: 10px 0px 0px;}
+.header-main-wrp .col-md-9{/* background-color:rgba(117, 165, 15, 0.8); padding: 0px 0px 0px;*/ padding-left:0px; padding-right:0px;}
+.nav-wrp ul li.norm-link a{ color:#fff;padding: 14px 0px; display:block; }
+.nav-wrp ul li.lang-link select{ margin-bottom: 10px;}
+.form-wrap { width:100%; }
+.why-partner-container ul li,.corporate-list ul li { width:98%; margin:0 auto; margin-bottom:5px;float:none; }
+.why-partner-container {    margin-top: 0;
+margin-left: 0;
+padding-left: 0;
+padding-bottom: 40px;}
+.why-partner-container h2 {margin-top:0px; padding-top:20px;font-size: 30px;padding-left: 12px;}
+.partners-banner,.corporate-banner { height:auto; padding-bottom:30px; background-image:none; background-color:#f8f8f9;} 
+.partners-banner h2 {padding-top: 30px;padding-bottom: 20px;font-size:30px;line-height: 26px;}
+.why-partner-container { padding:0px; }
+.why-partner-container ul {margin-top: 20px;}
+#successful {padding-top: 30px;}
+.partners-banner h2,.corporate-banner h2 {line-height: 25px;padding-top: 30px;padding-bottom: 20px;font-size: 25px; color:#FFF !important;margin-top:-98px;}
+.corporate-banner h2 {margin-top:-119px;}
+
+
+.farmers-banner { height:auto; background-image:none;margin-top: 86px;}
+.farmers-banner .container-1280-wrp { position:relative;top:0px; }
+.farmers-banner h2 {padding-top: 10px; color:#333;}
+.farmers-banner h2 a { color:#333; }
+#carousel-farmers .item:nth-child(1) {
+background-image: url(../images/mobile-farmer-banner.jpg); background-repeat: no-repeat; background-position:0px 0px; background-size:cover;
+}
+#carousel-farmers.item:nth-child(2) {
+background-image: url(../images/mobile-farmer-banner-2.jpg); background-repeat: no-repeat; background-position: 0px 0px; background-size: cover;
+}
+
+#tringo-advantage { height:auto; }
+#tringo-advantage h2 {font-size: 30px;}
+#carousel-example-generic .item {background-size: 70%; background-image:none;height:370px;}
+#carousel-farmers .item:nth-child(2) h2 {padding-top: 153px;margin-bottom: 0px;}
+.farmers-banner .green-cta { left:10px; margin-top: 8px; font-size: 11px;width: 175px;}
+.mobile-screen { background-color:transparent;width: 266px; height: 442px;margin-top: 30px; position:relative; top:0px;margin-left: 0; }
+#carousel-farmers .carousel-indicators { bottom:6px; left:inherit; right:0px;width: 15%;}
+#technology { height:auto; }
+.customers-slider h2 {font-size: 33px;}
+.orange-cta { right:0;margin: auto;bottom:0px;width: 215px;}
+#carousel-example-generic .carousel-control.right {right: 30px;}
+#carousel-example-generic .carousel-control.left {left: 30px;}
+.flex-direction-nav a { width:40px !important; height:40px !important;top: 25% !important; }
+.flex-direction-nav .flex-next,.flex-direction-nav .flex-prev {background-position: center;}
+.successful-slider h2 {font-size: 30px;}	
+.successful-slider h2 br { display:none; }
+
+.about-us-container{ padding: 20px;} 
+.about-us-lhs p.green-title{font-size:24px;}
+.about-us-lhs p.lhs-para{font-size:16px; margin-left: 10px}
+.about-us-lhs{padding:20px;height: auto;}
+.about-us-rhs{height:auto;padding: 15px;background-position: 35px 15px;background-size: 82%;height: 620px;}
+.about-us-rhs .infograph-home{margin-left:240px;margin-top: 385px;}
+.about-us-rhs .infograph-home1{margin-left:240px; margin-top:10px;}
+.about-us-wrp{padding:10px 0;}
+.about-us-container p.para-large{line-height:27px; font-size:22px;}
+.about-banner h2 span{font-size:30px;}
+.about-banner h2{padding-top:155px;}
+.about-us-container p.top-desc, .about-us-container p{font-size:14px;}
+.team-container h2{font-size:24px;}
+.team-desc span{font-size:14px; margin-bottom: 5px;}
+.team-desc p{font-size:14px;}
+.team-container{padding-left:5px;}
+.about-us-rhs p.info-numb{font-size:26px;}
+.awards-box .white-awards-div{height:430px; padding: 0px;}
+#awards{padding-top:20px; padding-bottom:0px;}
+.careers-container{padding-top:0px; padding-left: 0px;}
+.careers-container h2{font-size:30px; text-align:left; margin-left:0px;}
+.awards-slider h2{font-size:24px;}
+.careers-container img{margin-left: 0px; margin-top:5px;}
+.awards-slider{width:auto;}
+.about-us-lhs .lhs-content{display:block;}
+.leadership-container{padding-left:10px;}
+.careers-container span{font-size:24px; text-align: left; line-height: 27px; margin-bottom: 10px;}
+.about-banner{height:330px;}
+.about-us-container span.green-large-text{font-size:26px;}
+.careers-container p{font-size:14px;text-align: justify;}
+.awards-box p{padding:40px;text-align: left;}
+#team{padding:10px;}
+.team-desc h2{font-size:18px;}
+.leadership-container h2{font-size:24px;}
+#careers{height: auto; padding: 10px;}
+
+.farmers-banner h2 { font-size: 24px;line-height: 29px; margin-bottom: 19px; color:#FFF;padding-top: 190px; padding-left: 10px;}
+.farmers-banner h2 a { color:#FFF; }
+#technology h2 {font-size: 36px;}
+#technology h2 span {font-size: 19px;}
+.carousel .item {min-height: 270px;}
+.carousel-inner .orange-cta {font-size: 11px;padding: 14px 14px;padding-right: 50px;margin-top: 19px;}
+.mobile-icon img {width: 138px;}
+#mobile-top a {font-size: 13px;}
+#grid-section .caption h3 {padding-top: 40px;padding-bottom: 25px;}
+#grid-section .thumbnail .caption {min-height: 160px;}
+#grid-section .thumbnail {margin-bottom: 2px;}
+#grid-section { padding-bottom:0px;padding-top: 10px; }
+#grid-section .title-home {margin-bottom: 20px;}
+.success-story-wrp {height: 509px;}
+
+.mobile-left-clr { padding-left:0px; } 
+#inline1,#inline2,#inline3 { width:100% !important; }
+
+#farmer-form .form-wrap { position:relative; top:0px;} 
+
+
+.pointer-title.pointer-1 { position:relative; left:200px !important; top:-230px !important; }  
+.pointer-1 h4 { margin-left:0px; margin-top:0px; }
+.pointer-title h4 {width: 150px;}
+
+.mobile-pointer-2 {left: 200px !important;top: 10px !important;}
+.pointer-sub-title-1 {width: 150px !important;}
+.pointer-4 h4 {margin-left: 0;}
+.mobile-pointer-3 {left: 200px !important;top: 55px !important;}
+.mobile-pointer-5 {left:130px !important;top:240px !important;}
+.mobile-pointer-6 .pointer-sub-title-1 {width: 169px !important;}
+.mobile-pointer-7 {left:310px !important;top:141px !important;}
+.mobile-pointer-8 {left: 308px !important;top: 120px !important;}
+.mobile-pointer-8 h4 {width: 165px !important;}
+
+
+.flex-direction-nav .flex-prev,.flexslider:hover .flex-direction-nav .flex-prev {
+left:0px !important;
+}
+.flex-direction-nav .flex-next,.flexslider:hover .flex-direction-nav .flex-next {
+right:0px !important;
+}
+
+.leadership ul li { width:46%; }
+.leader-desc h2 { font-size:12px;height: 18px; }
+.tooltip-hover { display:none; }
+.spotlight-list ul li h2 { padding-left:0px; padding-top:5px; }
+#carousel-example-generic .carousel-indicators {bottom: -2px;}
+.leader-desc span {font-size: 11px; display:block; line-height:10px;}
+.banner-area-wrp .carousel-indicators {width: 30%;left: 96%;}
+.farmers-banner h2 br { display:none; }
+.spotlight-image img {width: 100%;margin-left: 0;margin-top:-3%;}
+#grid-section .thumbnail:hover .image {transform: scale(1);-webkit-transform: scale(1);}
+#grid-section .thumbnail {margin: 0 auto;width: 93%;}
+.carousel-inner .orange-cta { box-shadow:none; }
+#farmers {padding-bottom: 30px;}
+#farmers h2 { margin-bottom:0px; padding-top:30px; font-size: 32px;}
+.nav-wrp ul li.norm-link a:after { display:none; }
+.copy-right-wrp a { display:block; text-align:center; }
+	
+.mobile-no-display{ display: none;}	
+.desk-no-display{ display: block;}	
+	
+.tech-no-mobile{ display: none;}
+	.tech-no-desk{ display: block; margin: 30px auto 0px;}	
+	
+	.mobile-intro-pointer-1 {left: 307px !important;top: 4px !important;}
+.mobile-intro-pointer-2 {left: 307px !important;top: 30px !important;}	
+.mobile-intro-pointer-3 {left: 307px !important;top: 91px !important;}	
+.mobile-intro-pointer-4 {left: 137px !important;top: 154px !important;}	
+.mobile-intro-pointer-5 {left: 137px !important;top: 215px !important;}	
+#carousel-example-generic .item:nth-child(5) .mobile-screen { margin-left:auto ; }
+#how-patners-withus h2 { font-size:30px; }	
+.farmers-know-bt {margin-top:10px !important;}
+}
+
+@media (min-width: 320px) and (max-width:480px) { 
+
+.container-1280-wrp{ width: 100%;}
+.place-order-pic-box{ width: 100%;}
+.logo-wrp{ width:63%; padding-bottom: 10px;}
+.logo-wrp img{ margin:0 auto;}
+.nav-wrp{ float: right;width: 60%; display: none; padding-top: 10px;background-color:rgba(000, 000, 000, 0.9)}
+.nav-wrp ul li{ float: none; margin: 0px; text-align: center;}
+.nav-wrp ul li.norm-link{ margin: 0px;border-bottom: 1px solid rgba(88, 88, 87, 0.8);}
+.nav-wrp ul li.icn-link{ margin: 5px 0px;}
+.row{ margin: 0px;}
+.container-fluid{ padding: 0px;}
+.banner-area-wrp{ height: 300px;}
+p.caption-text {width: 100%;
+padding:9px 20px;
+margin: 0px;
+font-size:23px;
+background-color: rgba(141,195,26,0.8);
+position: absolute;
+bottom: 0px;}
+
+.item:nth-child(1){ background-position: center; background-image: url(../images/mobile-banner-2.jpg); background-repeat: no-repeat; background-size: cover;}
+.item:nth-child(2){ background-position: center; background-image: url(../images/mobile-banner-5.jpg); background-repeat: no-repeat; background-size: cover;}
+.item:nth-child(3){ background-position: center; background-image: url(../images/mobile-banner-new-three-screen.jpg); background-repeat: no-repeat; background-size: cover;}
+.item:nth-child(4){ background-position: center; background-image: url(../images/mobile-banner-4.jpg); background-repeat: no-repeat; background-size: cover;}
+
+.carousel-fade .carousel-control{ line-height: 17;}
+.about-home-wrp{ padding: 20px 0px;}
+.about-home-lhs{ padding: 0px;}
+.title-home{ font-size: 32px; margin-bottom: 10px;}
+.home-about-sub-desc{ font-size: 22px;}
+.home-about-desc{ font-size: 16px;}
+.infograph-home{ margin: 0px;}
+.about-home-rhs{ height: auto; min-height: 480px; background-size: 100%;}
+.green-cta{ bottom: 0px;}
+.grid-box-wrp{ height: 350px;}
+.inner-grid-box{ left: 20px; bottom: 20px;}
+p.grid-desc{ height: auto; font-size: 20px;}
+.no-show-mob{ display: none;}
+.copy-right-wrp span.copy-link{ text-align: center; display: block;}
+p.footer-logo-btm-desc{ font-size: 13px; padding: 0px;}
+.top-last-ftr{ margin: 10px 0px;}
+.mobile-hide{ display: none;}
+.mobile-show{ display:block;}
+.place-order-pic-box img{ margin: 0 auto;}
+.place-order-wrp {
+width: 100%;
+height: auto;
+padding: 30px 0px 95px;}
+.story-box{ width: 100% !important; height: auto; padding-top: 80px; padding-bottom: 20px;}
+.quote-1{ display: none;}
+.quote-2{ display: none;}
+p.story-desc{ padding: 0px 20px;}
+.hamburger-menu{ display: block;}
+a.banner-cta{ margin-top: 0px;}
+.hide-mobile{ display:none;}
+.hide-desktop{ display:block !important;position: relative;
+clear: both;
+margin: 20px 0px;
+left: 0px;}
+
+.header-main-wrp{ background-color:transparent; padding-bottom: 0px; padding-top: 0px; border: none;top: 25px;}
+.header-main-wrp .col-md-3{ background-color: #fff; padding: 10px 0px 0px;}
+.header-main-wrp .col-md-9{/* background-color:rgba(117, 165, 15, 0.8); padding: 0px 0px 0px;*/ padding-left:0px; padding-right:0px;}
+.nav-wrp ul li.norm-link a{ color:#fff;padding: 14px 0px; display:block; }
+.nav-wrp ul li.lang-link select{ margin-bottom: 10px;}
+.form-wrap { width:100%; }
+.why-partner-container ul li,.corporate-list ul li { width:98%; margin:0 auto; margin-bottom:5px;float:none; }
+.why-partner-container {    margin-top: 0;
+margin-left: 0;
+padding-left: 0;
+padding-bottom: 40px;}
+.why-partner-container h2 {margin-top:0px; padding-top:20px;font-size: 30px;padding-left: 12px;}
+.partners-banner,.corporate-banner { height:auto; padding-bottom:30px; background-image:none; background-color:#f8f8f9;} 
+.partners-banner h2 {padding-top: 30px;padding-bottom: 20px;font-size:30px;line-height: 26px;}
+.why-partner-container { padding:0px; }
+.why-partner-container ul {margin-top: 20px;}
+#successful {padding-top: 30px;}
+.partners-banner h2,.corporate-banner h2 {line-height: 25px;padding-top: 30px;padding-bottom: 20px;font-size: 25px; color:#FFF !important;margin-top:-98px;}
+.corporate-banner h2 {margin-top:-162px;}
+
+
+.farmers-banner { height:auto; background-image:none;margin-top: 86px;}
+.farmers-banner .container-1280-wrp { position:relative;top:0px; }
+.farmers-banner h2 {padding-top: 10px; color:#333;}
+.farmers-banner h2 a { color:#333; }
+#carousel-farmers .item:nth-child(1) {
+background-image: url(../images/mobile-farmer-banner.jpg); background-repeat: no-repeat; background-position:0px 0px; background-size:cover;
+}
+#carousel-farmers.item:nth-child(2) {
+background-image: url(../images/mobile-farmer-banner-2.jpg); background-repeat: no-repeat; background-position: 0px 0px; background-size: cover;
+}
+
+#tringo-advantage { height:auto; }
+#tringo-advantage h2 {font-size: 30px;}
+#carousel-example-generic .item {background-size: 70%; background-image:none;height:320px;}
+#carousel-farmers .item:nth-child(2) h2 {padding-top: 153px;margin-bottom: 0px;}
+.farmers-banner .green-cta { left:10px; margin-top: 8px; font-size: 11px;width: 175px;}
+.mobile-screen { background-color:transparent;width: 266px; height: 442px;margin-top: 30px; position:relative; top:0px;margin-left: 0; }
+.mobile-screen img {width: 150px;}
+#carousel-farmers .carousel-indicators { bottom:6px; left:inherit; right:0px;width: 15%;}
+#technology { height:auto; }
+.customers-slider h2 {font-size: 30px;}
+.orange-cta { right:0;margin: auto;bottom:0px;width: 215px;}
+#carousel-example-generic .carousel-control.right {right: 30px;}
+#carousel-example-generic .carousel-control.left {left: 30px;}
+.flex-direction-nav a { width:40px !important; height:40px !important;top: 25% !important; }
+.flex-direction-nav .flex-next,.flex-direction-nav .flex-prev {background-position: center;}
+.successful-slider h2 {font-size: 30px;}	
+.successful-slider h2 br { display:none; }
+
+.about-us-container{ padding: 20px;} 
+.about-us-lhs p.green-title{font-size:24px;}
+.about-us-lhs p.lhs-para{font-size:16px; margin-left: 10px}
+.about-us-lhs{padding:20px;height: auto;}
+.about-us-rhs{height:auto;padding: 15px;background-position: 35px 15px;background-size: 82%;height: 620px;}
+.about-us-rhs .infograph-home{margin-left:0px;margin-top: 385px;}
+.about-us-rhs .infograph-home1{margin-left:0px; margin-top:10px;}
+.about-us-wrp{padding:10px 0;}
+.about-us-container p.para-large{line-height:27px; font-size:22px;}
+.about-banner h2 span{font-size:30px;}
+.about-banner h2{padding-top:155px;}
+.about-us-container p.top-desc, .about-us-container p{font-size:14px;}
+.team-container h2{font-size:24px;}
+.team-desc span{font-size:14px; margin-bottom: 5px;}
+.team-desc p{font-size:14px;}
+.team-container{padding-left:5px;}
+.about-us-rhs p.info-numb{font-size:26px;}
+.awards-box .white-awards-div{height:430px; padding: 0px;}
+#awards{padding-top:20px; padding-bottom:0px;}
+.careers-container{padding-top:0px; padding-left: 0px;}
+.careers-container h2{font-size:30px; text-align:left; margin-left:0px;}
+.awards-slider h2{font-size:30px;}
+.careers-container img{margin-left: 0px; margin-top:5px;}
+.awards-slider{width:auto;}
+.about-us-lhs .lhs-content{display:block;}
+.leadership-container{padding-left:10px;}
+.careers-container span{font-size:24px; text-align: left; line-height: 27px; margin-bottom: 10px;}
+.about-banner{height:330px;}
+.about-us-container span.green-large-text{font-size:26px;}
+.careers-container p{font-size:14px;text-align: justify;}
+.awards-box p{padding:40px;text-align: left;}
+#team{padding:10px;}
+.team-desc h2{font-size:18px;}
+.leadership-container h2{font-size:24px;}
+#careers{height: auto; padding: 10px;}
+
+.farmers-banner h2 { font-size: 24px;line-height: 29px; margin-bottom: 19px; color:#FFF;padding-top: 190px; padding-left: 10px;}
+.farmers-banner h2 a { color:#FFF; }
+#technology h2 {font-size: 30px;}
+#technology h2 span {font-size: 19px;}
+.carousel .item {min-height: 270px;}
+.carousel-inner .orange-cta {font-size: 11px;padding: 14px 14px;padding-right: 50px;margin-top: 19px;}
+.mobile-icon img {width: 136px;}
+#mobile-top a {font-size: 13px;}
+#grid-section .caption h3 {padding-top: 40px;padding-bottom: 25px;}
+#grid-section .thumbnail .caption {min-height: 160px;}
+#grid-section .thumbnail {margin-bottom: 2px;}
+#grid-section { padding-bottom:0px;padding-top: 10px; }
+#grid-section .title-home {margin-bottom: 20px;}
+.success-story-wrp {height: 509px;}
+
+.mobile-left-clr { padding-left:0px; } 
+#inline1,#inline2,#inline3 { width:100% !important; }
+
+#farmer-form .form-wrap { position:relative; top:0px;} 
+
+
+.pointer-title.pointer-1 { position:relative; left:150px !important; top:-230px !important; }  
+.pointer-1 h4 { margin-left:0px; margin-top:0px; }
+.pointer-title h4 {width: 150px;}
+
+.mobile-pointer-2 {left: 150px !important;top: 10px !important;}
+.pointer-sub-title-1 {width: 150px !important;}
+.pointer-4 h4 {margin-left: 0;}
+.mobile-pointer-3 {left: 150px !important;top: 55px !important;}
+.mobile-pointer-5 {left:80px !important;top:240px !important;}
+.mobile-pointer-6 .pointer-sub-title-1 {width: 169px !important;}
+.mobile-pointer-7 {left:260px !important;top:141px !important;}
+.mobile-pointer-8 {left: 258px !important;top: 120px !important;}
+.mobile-pointer-8 h4 {width: 165px !important;}
+
+
+.flex-direction-nav .flex-prev,.flexslider:hover .flex-direction-nav .flex-prev {
+left:0px !important;
+}
+.flex-direction-nav .flex-next,.flexslider:hover .flex-direction-nav .flex-next {
+right:0px !important;
+}
+
+.leadership ul li { width:46%; }
+.leader-desc h2 { font-size:12px;height: 18px; }
+.tooltip-hover { display:none; }
+.spotlight-list ul li h2 { padding-left:0px; padding-top:5px; }
+#carousel-example-generic .carousel-indicators {bottom: -2px;}
+.leader-desc span {font-size: 11px; display:block; line-height:10px;}
+#mobile-top { z-index:9999; }
+.banner-area-wrp .carousel-indicators {width: 30%;left: 96%;}
+.farmers-banner h2 br { display:none; }
+.spotlight-image img {width: 100%;margin-left: 0;margin-top:-3%;}
+#grid-section .thumbnail:hover .image {transform: scale(1);-webkit-transform: scale(1);}
+#grid-section .thumbnail {margin: 0 auto;width: 93%;}
+.carousel-inner .orange-cta { box-shadow:none; }
+
+#farmers {padding-bottom: 30px;}
+#farmers h2 { margin-bottom:0px; padding-top:30px; font-size: 30px;}
+.nav-wrp ul li.norm-link a:after { display:none; }
+.copy-right-wrp a { display:block; text-align:center; }
+	
+	.mobile-no-display{ display: none;}	
+	.desk-no-display{ display: block;}
+	
+	.tech-no-mobile{ display: none;}
+		.tech-no-desk{ display: block; margin: 30px auto 0px;}	
+
+
+.mobile-intro-pointer-1 {left: 257px !important;top: 4px !important;}
+.mobile-intro-pointer-2 {left: 257px !important;top: 30px !important;}	
+.mobile-intro-pointer-3 {left: 257px !important;top: 91px !important;}	
+.mobile-intro-pointer-4 {left: 87px !important;top: 154px !important;}	
+.mobile-intro-pointer-5 {left: 87px !important;top: 215px !important;}	
+#carousel-example-generic .item:nth-child(5) .mobile-screen { margin-left:auto ; }
+#how-patners-withus h2 { font-size:30px; }	
+.farmers-know-bt {margin-top:10px !important;}
+}
+
+
+/* iPhone 6 Plus portrait */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 3)
+{
+	
+	#carousel-example-generic .item {background-size: 64%;}
+	 }
+	 
+	 @media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
+}
+
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+/* Styles */
+}
+
+@media (max-width: 320px)
+{
+   .mobile-icon img {margin-left: -25px !important;}
+
+}

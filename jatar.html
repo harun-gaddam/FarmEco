@@ -1,0 +1,162 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta itemprop="name" content="Headway">
+    <meta itemprop="description" content="Changelog as a service. Simple as that.">
+    <meta property="og:title" content="Headway">
+    <meta property="og:description" content="Changelog as a service. Simple as that.">
+    <meta property="og:site_name" content="Headway">
+    <meta property="og:type" content="website">
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0001, minimum-scale=1.0001, user-scalable=no">
+    <!-- <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"> -->
+    <!-- <meta name="apple-mobile-web-app-capable" content="yes"> -->
+    <!-- <link rel="shortcut icon" href="/favicon.ico"> -->
+    <link rel="shortcut icon" href="/favicon.png">
+    <script src="//assets0.headwayapp.co/assets/packs/application-e08cfa03916ad3b2d1c9.js"></script>
+    <script src="//assets0.headwayapp.co/assets/packs/session-a37999386f8324633cfa.js" defer="defer"></script>
+    <link rel="stylesheet" media="screen" href="//assets0.headwayapp.co/assets/packs/session-834de28c.css" />
+    <!-- Hotjar Tracking Code for headwayapp.co -->
+    <!-- <script>
+      (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:373575,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+      })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script> -->
+
+    <title>Headway - Changelog as a service. Simple as that.</title>
+  </head>
+
+  <body>
+    <div id="body-cont">
+        <aside>
+          <a href="/">
+            <svg class="logo" width="44px" height="44px" viewBox="0 0 44 44" version="1.1">
+              <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g>
+                  <g>
+                    <rect fill="#ffffff" x="0" y="0" width="10" height="18" rx="5"></rect>
+                    <rect fill="#ffffff" x="0" y="19" width="10" height="14" rx="5"></rect>
+                    <rect fill="#ffffff" x="0" y="34" width="10" height="10" rx="5"></rect>
+                    <rect fill="#ffffff" x="34" y="0" width="10" height="27" rx="5"></rect>
+                    <rect fill="#ffffff" x="34" y="28" width="10" height="16" rx="5"></rect>
+                    <rect fill="#ffffff" x="12" y="18" width="20" height="10" rx="5"></rect>
+                  </g>
+                </g>
+              </g>
+            </svg>
+          </a>
+
+          <p class="brag">Headway is used by:</p>
+        </aside>
+
+      <main>
+        <div class="mCont">
+          <div class="notices">
+</div>
+
+<div class="signIn formHeading">
+  <h2>Log in with:</h2>
+</div>
+
+<form id="google_sign_in" action="/auth/google/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="0vlfcskidHfvatGI07qLUIG51BjvblMZcTKPCZ0Km9lsGUBgrCo7wmyD8Q5fXMuT4h0RqdquBc0JDDP06JQ1eQ==" />
+  <button type="submit">
+    Your Google account
+  </button>
+</form>
+<form class="new_user" id="new_user" action="/login" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Rz0rRq0ZhcGnkJGTzOVUvLjjT3w7NG+cypOllj2LYoyKD70YFCvvBzgeDQxO3cTjoFrTU3BUPQW7p46jHzB/Ew==" />
+
+  <div class="authSeparator">
+    <hr>
+    <span>OR</span>
+  </div>
+
+  <fieldset>
+    <div class="fieldCont">
+      <input required="required" type="email" name="user[email]" id="user_email" />
+      <label class="over">Your e-mail address</label>
+    </div>
+
+    <div class="fieldCont last">
+      <input autocomplete="off" required="required" type="password" name="user[password]" id="user_password" />
+      <label class="over">Password</label>
+    </div>
+
+    <!-- 
+      <div class="fieldCont">
+        <input name="user[remember_me]" type="hidden" value="0" /><input type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+        <label for="user_remember_me">Remember me</label>
+      </div>
+     -->
+  </fieldset>
+
+  <div class="formActions">
+    <div class="buttonCont">
+      <input type="submit" name="commit" value="Log in" data-disable-with="Log in" />
+    </div>
+  </div>
+</form>
+<div class="otherLinks">
+  <a href="/join">Sign up</a>
+  <a href="/amnesia">Forgot your password?</a>
+</div>
+
+        </div>
+      </main>
+    </div>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  if(window.localStorage) {
+    ga('create', "UA-119813611-1", "auto", {
+      'storage': 'none'
+      , 'clientId': window.localStorage.getItem('ga_clientId')
+    });
+    ga(function(tracker) {
+      window.localStorage.setItem('ga_clientId', tracker.get('clientId'));
+    });
+  } else {
+    ga('create', "UA-119813611-1", "auto");
+  }
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script>
+    <div class="awesomeBanner">
+  <div class="body">
+    <svg class="icon bt-times-circle" width="20px" height="20px" viewBox="0 0 20 20">
+      <g stroke="none" stroke-width="1">
+        <g>
+          <path d="M15,5.53571429 L10.5357143,10 L15,14.4642857 L14.4642857,15 L10,10.5357143 L5.53571429,15 L5,14.4642857 L9.46428571,10 L5,5.53571429 L5.53571429,5 L10,9.46428571 L14.4642857,5 L15,5.53571429 Z M10,0.714285714 C8.74337996,0.714285714 7.54299514,0.958992262 6.39880952,1.4484127 C5.25462391,1.93783313 4.26587718,2.59920218 3.43253968,3.43253968 C2.59920218,4.26587718 1.93783313,5.25462391 1.4484127,6.39880952 C0.958992262,7.54299514 0.714285714,8.74337996 0.714285714,10 C0.714285714,11.25662 0.958992262,12.4570049 1.4484127,13.6011905 C1.93783313,14.7453761 2.59920218,15.7341228 3.43253968,16.5674603 C4.26587718,17.4007978 5.25462391,18.0621669 6.39880952,18.5515873 C7.54299514,19.0410077 8.74337996,19.2857143 10,19.2857143 C11.25662,19.2857143 12.4570049,19.0410077 13.6011905,18.5515873 C14.7453761,18.0621669 15.7341228,17.4007978 16.5674603,16.5674603 C17.4007978,15.7341228 18.0621669,14.7453761 18.5515873,13.6011905 C19.0410077,12.4570049 19.2857143,11.25662 19.2857143,10 C19.2857143,8.74337996 19.0410077,7.54299514 18.5515873,6.39880952 C18.0621669,5.25462391 17.4007978,4.26587718 16.5674603,3.43253968 C15.7341228,2.59920218 14.7453761,1.93783313 13.6011905,1.4484127 C12.4570049,0.958992262 11.25662,0.714285714 10,0.714285714 Z M10,0 C12.7513365,0 15.1058103,0.97882619 17.0634921,2.93650794 C19.0211738,4.89418968 20,7.24866349 20,10 C20,12.7513365 19.0211738,15.1058103 17.0634921,17.0634921 C15.1058103,19.0211738 12.7513365,20 10,20 C7.24866349,20 4.89418968,19.0211738 2.93650794,17.0634921 C0.97882619,15.1058103 0,12.7513365 0,10 C0,7.24866349 0.97882619,4.89418968 2.93650794,2.93650794 C4.89418968,0.97882619 7.24866349,0 10,0 Z" id="icon-fail"></path>
+        </g>
+      </g>
+    </svg>
+    <svg class="icon bt-check-circle" width="20px" height="20px" viewBox="0 0 20 20">
+      <g stroke="none" stroke-width="1">
+        <g>
+          <path d="M15.1785714,6.78571429 L15.7142857,7.32142857 L8.21428571,14.8214286 L3.92857143,10.5357143 L4.46428571,10 L8.21428571,13.75 L15.1785714,6.78571429 Z M19.2857143,10 C19.2857143,8.74337996 19.0410077,7.54299514 18.5515873,6.39880952 C18.0621669,5.25462391 17.4007978,4.26587718 16.5674603,3.43253968 C15.7341228,2.59920218 14.7453761,1.93783313 13.6011905,1.4484127 C12.4570049,0.958992262 11.25662,0.714285714 10,0.714285714 C8.74337996,0.714285714 7.54299514,0.958992262 6.39880952,1.4484127 C5.25462391,1.93783313 4.26587718,2.59920218 3.43253968,3.43253968 C2.59920218,4.26587718 1.93783313,5.25462391 1.4484127,6.39880952 C0.958992262,7.54299514 0.714285714,8.74337996 0.714285714,10 C0.714285714,11.25662 0.958992262,12.4570049 1.4484127,13.6011905 C1.93783313,14.7453761 2.59920218,15.7341228 3.43253968,16.5674603 C4.26587718,17.4007978 5.25462391,18.0621669 6.39880952,18.5515873 C7.54299514,19.0410077 8.74337996,19.2857143 10,19.2857143 C11.25662,19.2857143 12.4570049,19.0410077 13.6011905,18.5515873 C14.7453761,18.0621669 15.7341228,17.4007978 16.5674603,16.5674603 C17.4007978,15.7341228 18.0621669,14.7453761 18.5515873,13.6011905 C19.0410077,12.4570049 19.2857143,11.25662 19.2857143,10 Z M20,10 C20,12.7513365 19.0211738,15.1058103 17.0634921,17.0634921 C15.1058103,19.0211738 12.7513365,20 10,20 C7.24866349,20 4.89418968,19.0211738 2.93650794,17.0634921 C0.97882619,15.1058103 0,12.7513365 0,10 C0,7.24866349 0.97882619,4.89418968 2.93650794,2.93650794 C4.89418968,0.97882619 7.24866349,0 10,0 C12.7513365,0 15.1058103,0.97882619 17.0634921,2.93650794 C19.0211738,4.89418968 20,7.24866349 20,10 Z" id="icon-ok"></path>
+        </g>
+      </g>
+    </svg>
+    <span></span>
+  </div>
+  <div class="blind"></div>
+  <div class="blind"></div>
+</div>
+
+<script type="text/javascript">
+  window.addEventListener("load", function(){
+  })
+</script>
+
+  </body>
+</html>

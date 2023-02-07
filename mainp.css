@@ -1,0 +1,27 @@
+.card{
+  height: 285px;
+  transform: rotateX(60deg)  scale(0.9);
+  transition: .5s all ease;
+  perspective: 900px;
+  box-shadow: 0px 20px 50px #555;
+  animation: entry 1s linear 1;
+  background-image: url(assets/img/bg.jpg);
+  background-size: cover;
+  border-radius: 100px;
+
+}
+.card:hover {
+  cursor: pointer;
+  transform: rotate(0deg) scale(1) translateY(10px);
+  transition: .5s all ease;
+  z-index: 400;
+}
+@keyframes entry {
+  0% {
+    top: -20%;
+    opacity: 0.1;
+  }
+  100% {
+    top: 0%;
+  }
+}
